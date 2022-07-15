@@ -89,9 +89,9 @@
 <tr border="0">
 <td width="50%" align="center">
   
-  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=dndus&theme=cobalt&show_icons=true&count_private=true" />
+  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=Elineora07&theme=cobalt&show_icons=true&count_private=true" />
   <br></br>
-  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="http://github-readme-streak-stats.herokuapp.com?user=dndus&theme=neon-palenight&date_format=M%20j%5B%2C%20Y%5D" />
+  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="http://github-readme-streak-stats.herokuapp.com?user=Elineora07&theme=neon-palenight&date_format=M%20j%5B%2C%20Y%5D" />
 
 
   
