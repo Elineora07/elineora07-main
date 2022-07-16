@@ -166,7 +166,7 @@
   <h3><b>😄 Can Connect With Me On</b></h3>
   </div>
 <p align="center">
-<a href="https://www.linkedin.com/in/diyorbekdev/" target="_blank">
+<a href="https://www.linkedin.com/in/elineora-xudoyqulova-966740245/" target="_blank">
   <img align="center" alt="Diyorbek | Linkedin" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg" />
 </a> &nbsp;&nbsp;
 <a href="https://www.instagram.com/diyorbek_us/" target="_blank">
