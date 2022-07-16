@@ -167,7 +167,7 @@
   </div>
 <p align="center">
 <a href="https://www.linkedin.com/in/elineoradev/" target="_blank">
-  <img align="center" alt="Elineora | Linkedin" width="24px" src="https://www.linkedin.com/in/elineora-xudoyqulova-966740245" />
+  <img align="center" alt="Elineora | Linkedin" width="24px" src="https://www.linkedin.com/in/elineora-xudoyqulova" />
 </a> &nbsp;&nbsp;
 <a href="https://www.instagram.com/diyorbek_us/" target="_blank">
   <img align="center" alt="Elineora | Instagram" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Instagram.svg" />
