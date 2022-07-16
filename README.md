@@ -1,6 +1,6 @@
 
 <p align="center" ><img 
- src="https://www.redsign.ru/media/news/poleznye-rasshireniya-dlya-google-chrome-gif-uchebnik/"/></p>
+ src="https://user-images.githubusercontent.com/22797857/90096358-dba16400-dd54-11ea-8e44-e181ada72661.gif" width="40%"/></p>
 
 ### Hi there 👋
 
