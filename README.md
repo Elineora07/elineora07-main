@@ -169,7 +169,7 @@
 <a href="https://www.linkedin.com/in/elineora-xudoyqulova-966740245/" target="_blank">
   <img align="center" alt="Diyorbek | Linkedin" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg" />
 </a> &nbsp;&nbsp;
-<a href="https://www.instagram.com/diyorbek_us/" target="_blank">
+<a href="https://www.instagram.com/dilnora_raxmatova/" target="_blank">
   <img align="center" alt="Elineora | Instagram" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Instagram.svg" />
 </a> &nbsp;&nbsp;
 <a href="mailto:elineora20022003@gmail.com" >
